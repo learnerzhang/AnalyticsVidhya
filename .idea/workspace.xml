@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../gtd-analytics/train_svm.py" description="&#10;# Plotter library&#10;import seaborn as sns" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2736ac3b-af57-4548-8782-39a76f47415b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/taobao/wordcloud_tools.py" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/checkpoint" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/converter.pkl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-16000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-16000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-16000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-17000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-17000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-17000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-18000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-18000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-18000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-19000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-19000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-19000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-20000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-20000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/model/default/model-20000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/read_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/sample.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Char-RNN-TensorFlow/train.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/contact_list.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/context.pkl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/corpus.pkl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/char_crf.pickle" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/construct_corpus.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/crf.pickle" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/crf_test" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/crf_train" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/data_char_process.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/data_process.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/hotel_refine.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/case.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/hot_hotel.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/hotel.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/liansuo_hotel.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/liansuo_hotel_sorted.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/ner_rule.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/ner_utils/ner_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/netbar_refine.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/origin.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/rs.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/test.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/test_data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/train.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/train_origin.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/tutorial.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/user_dict" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/crf/酒店网吧.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/entity_corpus.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/entity_issue.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/entity_rule/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/gram.pkl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/_load_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/_regex_run.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/_similarity.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/_sklearn_run.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/_sklearn_svm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/_tf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/_vec.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/acai_sjz_corpus.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/cv_100_result.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/cv_50_result.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/regex_sjz.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/rs.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/tf_idf_result.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/intent/中文停用词库.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/obj.pkl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/recommend/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/recommend/training_outcome.xlsx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/ts_corpus.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_acai/实体消岐.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python/tutorial/_tutorial.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python/tutorial/data_helper.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python/tutorial/predictions.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/1-dependencies.R" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/2-load_process_data.R" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/3-hyperparameter_gridsearch_xgb.R" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/4-train_xgb.R" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/5-ensembling_bagging.R" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/prototyping.R" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R/xgboost_multithread_setup_ubuntu.bash" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/data/sample_submission.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/data/test.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/data/train.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/submissions/cv_results.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/submissions/eric_submission_1.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/submissions/eric_submission_2.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/CPT.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/PredictionTree.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/data/sample_submission.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/data/test.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/data/train.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/example.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/CPT/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_one/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_one/load_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_one/model.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_one/predict.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_one/train.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_zero/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/dat/rt-polarity.neg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/dat/rt-polarity.pos" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/data_helpers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539853872/summaries/dev/events.out.tfevents.1539853876.bogon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539853872/summaries/train/events.out.tfevents.1539853874.bogon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539853872/vocab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/checkpoint" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28000.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28000.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28000.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28100.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28100.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28100.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28200.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28200.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28200.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28300.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28300.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28300.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28400.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28400.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/checkpoints/model-28400.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/summaries/dev/events.out.tfevents.1539854093.bogon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/summaries/train/events.out.tfevents.1539854093.bogon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/runs/1539854092/vocab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/text_cnn.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/train.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/cnn_text_demo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/cnn_text_one.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/cnn_text_three.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_cnn/cnn_text_two.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/MLP_for_binary_classification.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/MLP_for_multiclass_softmax_classification.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/Sequence_classification_with_1D_convolutions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/Sequence_classification_with_LSTM.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/StackedLSTM_for_sequence_classification.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/VGG_like_convnet.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/binaryClassification.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/categoricalClassification.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_keras/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_pytorch/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_pytorch/_autograd.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_pytorch/_get_start.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_pytorch/_nn.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_tensorboard/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/_tensorboard/_dnn/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/acai_classifier/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/acai_classifier/data_process.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/acai_classifier/keras_quential.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/acai_classifier/train_rnn_classify.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/acai_classifier/training_outcome.xlsx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/acai_classifier/~$training_outcome.xlsx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/linguistic/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/linguistic/data_prepare.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/linguistic/neural_network_language_model.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/linguistic/train.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/BasicLSTMCell.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/BidirectionalRNN.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/LSTM/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/LSTM/demo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/LSTM/doIt.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/LSTM/i-a-p.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/MultiRNNCell.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/RNNCell.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/_BidirectionalRNN.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/_july/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/_sample.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/_train.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/checkpoint" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1000_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1000_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1000_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1200_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1200_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1200_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1400_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1400_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1400_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1600_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1600_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1600_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1800_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1800_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_1800_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2000_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2000_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2000_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_200_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_200_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_200_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2200_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2200_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2200_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2400_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2400_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2400_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2600_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2600_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2600_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2800_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2800_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_2800_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3000_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3000_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3000_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3200_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3200_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3200_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3400_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3400_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3400_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3600_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3600_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3600_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3800_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3800_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_3800_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_400_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_400_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_400_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_600_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_600_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_600_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_800_512.pkg.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_800_512.pkg.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/checkpoints/model_800_512.pkg.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/data/anna.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/data/jay.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/data/jpn.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/data/linux.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/data/poetry.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/data/shakespeare.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/rnn_text_classifier.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/rnn_words/events.out.tfevents.1530781137.bogon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/rnn_words/events.out.tfevents.1530782296.bogon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/sample_rnn.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/seq2seq/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/seq2seq/chat/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/seq2seq/translate/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/rnn/seq2seq/translate/data_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/checkpoints/checkpoint" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/checkpoints/text8.ckpt.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/checkpoints/text8.ckpt.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/checkpoints/text8.ckpt.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/word2vec.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_dl/w2v/word2vec_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/pass/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/pass/scores.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/titanic/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/titanic/data_analytic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/titanic/gender_submission.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/titanic/svm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/titanic/test.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/titanic/train.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/tmdb/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/tmdb/tmdb_5000_credits.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/tmdb/tmdb_5000_credits.csv.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/tmdb/tmdb_5000_movies.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_kaggle/tmdb/tmdb_5000_movies.csv.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_machine_learning_in_action/Classification/MachineLearningBasics.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_machine_learning_in_action/Classification/data/datingTestSet.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_machine_learning_in_action/Classification/decisionTree.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_machine_learning_in_action/Classification/k_Nearest_Neighbors.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/_load_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/_sklearn_ml.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/_tf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/clf.model" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/corpus.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/labels.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/train.dict" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/train.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/train.tfidf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_news_classification/中文停用词库.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_pandas/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_pandas/_bar.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_pandas/_base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_pandas/_box.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_pandas/_histograms.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_pandas/_other.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_plot/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_plot/arf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_plot/custom_plot.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_plot/pandas_plot.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_cluster/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_cross_val/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_cross_val/_plot_cross_val_predict.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_dts/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_dts/_graphviz.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_dts/_plot_dts.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_dts/demo_graph.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_dts/round-table.gv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_dts/trees.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_preprocess/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_preprocess/data_preprocess.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/Isotonic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/bayesian.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/face_completion.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/linear.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/logisticRegDataSet.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/lr.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/lr_core.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/robust.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_regression/sparsity_example.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/_cross_val_score.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/_cross_validate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/_cross_validation.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/_grid_search_cv.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/_unbalanced_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/classification/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/classification/a1a.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/classification/a2a.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/classification/a3a.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/multi-label/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/abalone/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/abalone/abalone.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/abalone/abalone.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/abalone/abalone_gradient_descent.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/abalone/linear_regression.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/abalone/multiple_regression.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/abalone/polynomial_regression.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/demo/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/demo/demo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/demo/demo1.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/demo/demo2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/demo/demo3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/housing/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/housing/hits.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/housing/house.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/housing/house.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/linear_regression.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/multiple_regression.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/polynomial_regression.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/regression/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_svm/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/_tf/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/matrix/GradientDescent.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/matrix/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/matrix/coco_mat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/a1a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/a1a.t" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/feature-union/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/feature-union/feature_union_svm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/fold-grid-search/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/fold-grid-search/fold_grid_search.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/fold-grid-search/log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/grid-search/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/grid-search/demo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/grid-search/grid_search.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/grid-search/grid_search_knn.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/grid-search/grid_search_svm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/grid-search/log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/grid-search/randomize_search_cv.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/pipeline-grid-search-cv/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/pipeline-grid-search-cv/pipeline-grid.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/plot-learn-curve/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/plot-learn-curve/plot_learn_curve.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/svm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/support-vector-machine/test-svm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/utils/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_sklearn/utils/tools.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_xgboost/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_xgboost/_optimization.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/_xgboost/pima-indians-diabetes.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/3Sum.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/3SumClosest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/4Sum.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/AddTwoNumbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/ContainerWithMostWater.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/CountAndSay.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/GenerateParentheses.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/ImplementStr.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/LetterCombinationsofaPhoneNumber.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/LongestCommonPrefix.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/LongestPalindromicSubstring.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/LongestSubstringWithoutRepeatingCharacters.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/MergeTwoSortedLists.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/PalindromeNumber.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/RemoveDuplicatesfromSortedArray.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/RemoveElement.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/ReverseInteger.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/Roman2Integer.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/SearchInsertPosition.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/ShortestSubarraywithSumatLeastK.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/StringToInteger.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/SwapNodesinPairs.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/TwoSum.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/ValidNumber.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/ValidParentheses.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/ZigZagConversion.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/n_k_times.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/sort/Quicksort.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/leetcode/sort/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/timeseries/AirPassengers.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/exercise_demo/timeseries/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/flycup.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spacy_nlp/Tripadvisor_hotelreviews_Shivambansal.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spacy_nlp/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm0.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm0.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm0.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm0.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm0.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm0.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm1.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm1.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm1.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm1.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm1.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm1.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm2.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm2.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm2.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm2.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm2.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm2.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm3.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm3.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm3.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm3.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm3.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/CHN_adm3.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/CHN_adm_shp/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/bra/DroidSansFallbackFull.ttf" afterPath="$PROJECT_DIR$/taobao/DroidSansFallbackFull.ttf" />
+      <change beforePath="$PROJECT_DIR$/taobao/condom/DroidSansFallbackFull.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/flycup/DroidSansFallbackFull.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm0.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm0.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm0.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm0.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm0.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm0.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm1.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm1.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm1.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm1.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm1.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm1.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm2.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm2.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm2.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm2.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm2.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm2.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm3.cpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm3.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm3.dbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm3.prj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm3.shp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/CHN_adm3.shx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taobao/utils/CHN_adm_shp/license.txt" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_sklearn_svm.coverage" NAME="_sklearn_svm Coverage Results" MODIFIED="1516621549899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$MergeTwoSortedLists.coverage" NAME="MergeTwoSortedLists Coverage Results" MODIFIED="1529560942034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_nn.coverage" NAME="_nn Coverage Results" MODIFIED="1521706049032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/mnist" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_plot_cross_val_predict.coverage" NAME="_plot_cross_val_predict Coverage Results" MODIFIED="1538910165298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_sklearn/_cross_val" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$py_test_in_data_char_process_py.coverage" NAME="py.test in data_char_process.py Coverage Results" MODIFIED="1534659054169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_crf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_softmax.coverage" NAME="_softmax Coverage Results" MODIFIED="1516241900602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_analytic.coverage" NAME="data_analytic Coverage Results" MODIFIED="1530607066763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/titanic" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$coco_mat.coverage" NAME="coco_mat Coverage Results" MODIFIED="1498962965865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/matrix" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$primary.coverage" NAME="primary Coverage Results" MODIFIED="1515754815051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/mnist" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$wordcloud.coverage" NAME="wordcloud Coverage Results" MODIFIED="1544002824579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_utils.coverage" NAME="data_utils Coverage Results" MODIFIED="1505477541606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_ex__2_.coverage" NAME="_ex (2) Coverage Results" MODIFIED="1521710613160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/_ex1" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$keyedvectors.coverage" NAME="keyedvectors Coverage Results" MODIFIED="1516275882789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/TestEnv/lib/python2.7/site-packages/gensim/models" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_cross_validate.coverage" NAME="_cross_validate Coverage Results" MODIFIED="1530590490546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$arf.coverage" NAME="arf Coverage Results" MODIFIED="1540893831945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/_plot" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$linear_regression__1_.coverage" NAME="linear_regression (1) Coverage Results" MODIFIED="1514799671612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/abalone" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$linear.coverage" NAME="linear Coverage Results" MODIFIED="1509593427915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/Regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$lstm.coverage" NAME="lstm Coverage Results" MODIFIED="1532438927323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/acai_classifier" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$AnalyticsVidhya.coverage" NAME="AnalyticsVidhya Coverage Results" MODIFIED="1537429596531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_forward.coverage" NAME="_forward Coverage Results" MODIFIED="1521463045273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$Isotonic.coverage" NAME="Isotonic Coverage Results" MODIFIED="1509540220582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sklearn/Regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$approach01.coverage" NAME="approach01 Coverage Results" MODIFIED="1512033604835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$test_svm.coverage" NAME="test-svm Coverage Results" MODIFIED="1498469499290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_exercises.coverage" NAME="_exercises Coverage Results" MODIFIED="1521700632663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_graph.coverage" NAME="_graph Coverage Results" MODIFIED="1521106718139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1515655770046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$a2a__1_.coverage" NAME="a2a (1) Coverage Results" MODIFIED="1530531776622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_ex__1_.coverage" NAME="_ex (1) Coverage Results" MODIFIED="1521709254563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/_ex1" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$py_test_in_test_tree_py.coverage" NAME="py.test in test_tree.py Coverage Results" MODIFIED="1537780353019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/_dts" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_helper__1_.coverage" NAME="data_helper (1) Coverage Results" MODIFIED="1541039736706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$reversi_main.coverage" NAME="reversi_main Coverage Results" MODIFIED="1517984263440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/project 1 - deep reinforcement learning" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$LetterCombinationsofaPhoneNumber.coverage" NAME="LetterCombinationsofaPhoneNumber Coverage Results" MODIFIED="1530339488504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_normal__1_.coverage" NAME="_normal (1) Coverage Results" MODIFIED="1516240568982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_numpy" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$extract.coverage" NAME="extract Coverage Results" MODIFIED="1509504080109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/110bot" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1539854083306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_session.coverage" NAME="_session Coverage Results" MODIFIED="1515901507730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$a1a__1_.coverage" NAME="a1a (1) Coverage Results" MODIFIED="1530531823097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1533008614099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/w2v" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1540449128558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/_xgboost" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$utils.coverage" NAME="utils Coverage Results" MODIFIED="1514800431406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_other.coverage" NAME="_other Coverage Results" MODIFIED="1530498483347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_pandas" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$GenerateParentheses.coverage" NAME="GenerateParentheses Coverage Results" MODIFIED="1530756583710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$train_rnn_classify.coverage" NAME="train_rnn_classify Coverage Results" MODIFIED="1531726315941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/acai_classifier" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_load_data.coverage" NAME="_load_data Coverage Results" MODIFIED="1516784674838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_news_classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_char_process.coverage" NAME="data_char_process Coverage Results" MODIFIED="1534819950281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_crf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$foredeal.coverage" NAME="foredeal Coverage Results" MODIFIED="1507704018270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/address" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1529639151601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$tensorflow_for_w2v.coverage" NAME="tensorflow_for_w2v Coverage Results" MODIFIED="1535077452733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/poc" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$listening.coverage" NAME="listening Coverage Results" MODIFIED="1509540462604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$Roman2Integer.coverage" NAME="Roman2Integer Coverage Results" MODIFIED="1528953130525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_normal.coverage" NAME="_normal Coverage Results" MODIFIED="1516240193715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_random" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$4Sum.coverage" NAME="4Sum Coverage Results" MODIFIED="1530343737896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_helper.coverage" NAME="data_helper Coverage Results" MODIFIED="1541042382332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$geo.coverage" NAME="geo Coverage Results" MODIFIED="1505788618043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao/flycup" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_stateful_lstm.coverage" NAME="_stateful_lstm Coverage Results" MODIFIED="1516242914299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1530237888669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/abalone" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_ex_nn.coverage" NAME="_ex_nn Coverage Results" MODIFIED="1534473439886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$demo_graph.coverage" NAME="demo_graph Coverage Results" MODIFIED="1537541899356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/_dts" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$MultiRNNCell.coverage" NAME="MultiRNNCell Coverage Results" MODIFIED="1531193506943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/rnn/base" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$bra.coverage" NAME="bra Coverage Results" MODIFIED="1506094887166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao/bra" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ner_add.coverage" NAME="ner_add Coverage Results" MODIFIED="1507704398725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/address" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$trees.coverage" NAME="trees Coverage Results" MODIFIED="1539075515144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_sklearn/_dts" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$lr.coverage" NAME="lr Coverage Results" MODIFIED="1516198882891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$randomize_search_cv.coverage" NAME="randomize_search_cv Coverage Results" MODIFIED="1498632073590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/grid-search" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$RNNCell.coverage" NAME="RNNCell Coverage Results" MODIFIED="1531379836255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/rnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$PalindromeNumber.coverage" NAME="PalindromeNumber Coverage Results" MODIFIED="1528768105643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$svm.coverage" NAME="svm Coverage Results" MODIFIED="1530607828994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/titanic" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_complete_demo.coverage" NAME="_complete_demo Coverage Results" MODIFIED="1521464597758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$GradientDescent.coverage" NAME="GradientDescent Coverage Results" MODIFIED="1534941402620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/matrix" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_box.coverage" NAME="_box Coverage Results" MODIFIED="1530500776660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_pandas" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$geo__2_.coverage" NAME="geo (2) Coverage Results" MODIFIED="1506095776174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao/condom" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_base.coverage" NAME="_base Coverage Results" MODIFIED="1530500765117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_pandas" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$BasicLSTMCell.coverage" NAME="BasicLSTMCell Coverage Results" MODIFIED="1531385378138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/rnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$bayesian.coverage" NAME="bayesian Coverage Results" MODIFIED="1509593925888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/Regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1528710123108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_bar.coverage" NAME="_bar Coverage Results" MODIFIED="1530586046334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_pandas" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_autograd.coverage" NAME="_autograd Coverage Results" MODIFIED="1517834338038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_pytorch" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$entity_issue.coverage" NAME="entity_issue Coverage Results" MODIFIED="1542344338399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$n_k_times.coverage" NAME="n_k_times Coverage Results" MODIFIED="1536657635950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ValidNumber.coverage" NAME="ValidNumber Coverage Results" MODIFIED="1537510070702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_softmax_base.coverage" NAME="_softmax_base Coverage Results" MODIFIED="1515665042509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$MLP_for_binary_classification.coverage" NAME="MLP_for_binary_classification Coverage Results" MODIFIED="1535104273322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$polynomial_regression.coverage" NAME="polynomial_regression Coverage Results" MODIFIED="1514800238188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$officeutlis.coverage" NAME="officeutlis Coverage Results" MODIFIED="1506583521876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dbs" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$custom.coverage" NAME="custom Coverage Results" MODIFIED="1530258693378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_plot" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$Quicksort.coverage" NAME="Quicksort Coverage Results" MODIFIED="1533090169947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ImplementStr.coverage" NAME="ImplementStr Coverage Results" MODIFIED="1530004091335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$LongestPalindromicSubstring.coverage" NAME="LongestPalindromicSubstring Coverage Results" MODIFIED="1530067945702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$Sequence_classification_with_1D_convolutions.coverage" NAME="Sequence_classification_with_1D_convolutions Coverage Results" MODIFIED="1535108563415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ZigZagConversion.coverage" NAME="ZigZagConversion Coverage Results" MODIFIED="1530079027855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1542076751226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/entity_rule" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$graphviz.coverage" NAME="graphviz Coverage Results" MODIFIED="1537542001707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/_dts" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_ex.coverage" NAME="_ex Coverage Results" MODIFIED="1521701865328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/mnist" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$fold_grid_search.coverage" NAME="fold_grid_search Coverage Results" MODIFIED="1498550502947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/fold-grid-search" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$categoricalClassification.coverage" NAME="categoricalClassification Coverage Results" MODIFIED="1535105024504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$grid_search_knn.coverage" NAME="grid_search_knn Coverage Results" MODIFIED="1498632091530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/grid-search" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$BidirectionalRNN.coverage" NAME="BidirectionalRNN Coverage Results" MODIFIED="1531380268472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/rnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$readIssue.coverage" NAME="readIssue Coverage Results" MODIFIED="1511834370445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dbs" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ner_utils.coverage" NAME="ner_utils Coverage Results" MODIFIED="1539761937011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/crf/ner_utils" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_helpers.coverage" NAME="data_helpers Coverage Results" MODIFIED="1539844760198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1514797998600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/demo" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ReverseInteger.coverage" NAME="ReverseInteger Coverage Results" MODIFIED="1528767941578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_classification.coverage" NAME="_classification Coverage Results" MODIFIED="1516200513263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$demo.coverage" NAME="demo Coverage Results" MODIFIED="1515653813215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$TextCNN.coverage" NAME="TextCNN Coverage Results" MODIFIED="1539681407307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/_dl/_cnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$abalone.coverage" NAME="abalone Coverage Results" MODIFIED="1514799178252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/abalone" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_lstm.coverage" NAME="_lstm Coverage Results" MODIFIED="1516242154939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_y.coverage" NAME="_y Coverage Results" MODIFIED="1524626791576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$construct_corpus.coverage" NAME="construct_corpus Coverage Results" MODIFIED="1534659657559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_crf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_stack_lstm.coverage" NAME="_stack_lstm Coverage Results" MODIFIED="1516242789165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$abalone_gradient_descent.coverage" NAME="abalone_gradient_descent Coverage Results" MODIFIED="1514799157580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/abalone" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_BidirectionalRNN.coverage" NAME="_BidirectionalRNN Coverage Results" MODIFIED="1531296308598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/rnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$a1a.coverage" NAME="a1a Coverage Results" MODIFIED="1530531735914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/_classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_layer.coverage" NAME="_layer Coverage Results" MODIFIED="1516029779391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_process__1_.coverage" NAME="data_process (1) Coverage Results" MODIFIED="1535427205942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/poc" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1539741598576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_one" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$doIt.coverage" NAME="doIt Coverage Results" MODIFIED="1513167383272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LSTM" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$read_utils.coverage" NAME="read_utils Coverage Results" MODIFIED="1540283380056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/recommend" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$condom.coverage" NAME="condom Coverage Results" MODIFIED="1506095581556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao/condom" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$RemoveElement.coverage" NAME="RemoveElement Coverage Results" MODIFIED="1529636799509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$seq2seq_translate.coverage" NAME="seq2seq_translate Coverage Results" MODIFIED="1534940992177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/Deep-Learning-Experiments/keras/seq2seq" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$out.coverage" NAME="out Coverage Results" MODIFIED="1511927539284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toefl" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$StackedLSTM_for_sequence_classification.coverage" NAME="StackedLSTM_for_sequence_classification Coverage Results" MODIFIED="1535107829384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1543999973790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spacy_nlp" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$MLP_for_multiclass_softmax_classification.coverage" NAME="MLP_for_multiclass_softmax_classification Coverage Results" MODIFIED="1535104383694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$a2a.coverage" NAME="a2a Coverage Results" MODIFIED="1530531580861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/_classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$model.coverage" NAME="model Coverage Results" MODIFIED="1540275310243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/recommend" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$LongestCommonPrefix.coverage" NAME="LongestCommonPrefix Coverage Results" MODIFIED="1529466342697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_regex_run.coverage" NAME="_regex_run Coverage Results" MODIFIED="1516191802916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_process.coverage" NAME="data_process Coverage Results" MODIFIED="1539249657802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/crf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$pipeline_grid.coverage" NAME="pipeline-grid Coverage Results" MODIFIED="1498543282600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/pipeline-grid-search-cv" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$flycup.coverage" NAME="flycup Coverage Results" MODIFIED="1506007367365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao/flycup" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_tutorial.coverage" NAME="_tutorial Coverage Results" MODIFIED="1540890954133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_similarity.coverage" NAME="_similarity Coverage Results" MODIFIED="1516279234813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ex_tree.coverage" NAME="ex_tree Coverage Results" MODIFIED="1537791352067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/_dts" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_vision.coverage" NAME="_vision Coverage Results" MODIFIED="1515734450177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$grid_search_tutorial.coverage" NAME="grid_search_tutorial Coverage Results" MODIFIED="1498617244287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/grid-search" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_demo1.coverage" NAME="_demo1 Coverage Results" MODIFIED="1516243575018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras/model" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$multiple_feature_regr.coverage" NAME="multiple_feature_regr Coverage Results" MODIFIED="1530323079484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/_regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$postdemo.coverage" NAME="postdemo Coverage Results" MODIFIED="1509352378256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/110bot" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$a3a.coverage" NAME="a3a Coverage Results" MODIFIED="1530589133353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$custom_plot.coverage" NAME="custom_plot Coverage Results" MODIFIED="1532872626063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_plot" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$StringToInteger.coverage" NAME="StringToInteger Coverage Results" MODIFIED="1530154679182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$feature_union_svm.coverage" NAME="feature_union_svm Coverage Results" MODIFIED="1498543274572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/feature-union" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$train.coverage" NAME="train Coverage Results" MODIFIED="1540349292760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/recommend" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$sample.coverage" NAME="sample Coverage Results" MODIFIED="1540349185863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/recommend" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$neural_network_language_model.coverage" NAME="neural_network_language_model Coverage Results" MODIFIED="1534476332066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/linguistic" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$py_test_for_data_char_process_test.coverage" NAME="py.test for data_char_process.test Coverage Results" MODIFIED="1534658847041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_crf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$face_completion.coverage" NAME="face_completion Coverage Results" MODIFIED="1509593854675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/Regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_classify.coverage" NAME="_classify Coverage Results" MODIFIED="1515761656925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/mnist" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$Sequence_classification_with_LSTM.coverage" NAME="Sequence_classification_with_LSTM Coverage Results" MODIFIED="1535105536179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$house.coverage" NAME="house Coverage Results" MODIFIED="1514800460184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/housing" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ValidParentheses.coverage" NAME="ValidParentheses Coverage Results" MODIFIED="1529551346967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$geo__1_.coverage" NAME="geo (1) Coverage Results" MODIFIED="1506095185312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao/bra" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$hello.coverage" NAME="hello Coverage Results" MODIFIED="1535078507814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deep-Learning-Experiments/Experiments/Tensorflow/Intro" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$VGG_convnet.coverage" NAME="VGG_convnet Coverage Results" MODIFIED="1535105351497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1509502525434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/110bot" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$grid_search.coverage" NAME="grid_search Coverage Results" MODIFIED="1498562292029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/grid-search" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$LongestSubstringWithoutRepeatingCharacters.coverage" NAME="LongestSubstringWithoutRepeatingCharacters Coverage Results" MODIFIED="1528771857791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$us_map.coverage" NAME="us_map Coverage Results" MODIFIED="1541041173382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_preprocess.coverage" NAME="data_preprocess Coverage Results" MODIFIED="1538917685916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_sklearn/_preprocess" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_train.coverage" NAME="_train Coverage Results" MODIFIED="1531380073521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/rnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$data_prepare.coverage" NAME="data_prepare Coverage Results" MODIFIED="1534475795349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/linguistic" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$__regr_visual.coverage" NAME="__regr_visual Coverage Results" MODIFIED="1530254201287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/_regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$AddTwoNumbers.coverage" NAME="AddTwoNumbers Coverage Results" MODIFIED="1528717836611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ContainerWithMostWater.coverage" NAME="ContainerWithMostWater Coverage Results" MODIFIED="1530588766646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1528872171746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$__init____3_.coverage" NAME="__init__ (3) Coverage Results" MODIFIED="1540893814570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/_sklearn/_tf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_mlp.coverage" NAME="_mlp Coverage Results" MODIFIED="1516159481594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_tf.coverage" NAME="_tf Coverage Results" MODIFIED="1516797451484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_news_classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$sparsity_example.coverage" NAME="sparsity_example Coverage Results" MODIFIED="1509593991405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/Regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$tools.coverage" NAME="tools Coverage Results" MODIFIED="1540209191079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/recommend" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$sample__1_.coverage" NAME="sample (1) Coverage Results" MODIFIED="1540367324906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/rnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$paddle.coverage" NAME="paddle Coverage Results" MODIFIED="1508068037422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Paddle" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$pandas.coverage" NAME="pandas Coverage Results" MODIFIED="1530260878870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_plot" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_get_start.coverage" NAME="_get_start Coverage Results" MODIFIED="1517831823599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_pytorch" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$tree.coverage" NAME="tree Coverage Results" MODIFIED="1537779068785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/_dts" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1509540854451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/demo" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$3SumClosest.coverage" NAME="3SumClosest Coverage Results" MODIFIED="1528941377049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_sklearn_ml.coverage" NAME="_sklearn_ml Coverage Results" MODIFIED="1516799979769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_news_classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1509588772322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm/regression/demo" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$markdown.coverage" NAME="markdown Coverage Results" MODIFIED="1514272639235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toefl" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_constant.coverage" NAME="_constant Coverage Results" MODIFIED="1515672178499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_placeholder.coverage" NAME="_placeholder Coverage Results" MODIFIED="1516026214766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$mediamill_exp1.coverage" NAME="mediamill_exp1 Coverage Results" MODIFIED="1530599139421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/_classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$us_graph.coverage" NAME="us_graph Coverage Results" MODIFIED="1541041066679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$Isotonic__1_.coverage" NAME="Isotonic (1) Coverage Results" MODIFIED="1509588867240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/Regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_sklearn_svm__1_.coverage" NAME="_sklearn_svm (1) Coverage Results" MODIFIED="1516788240022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_news_classification" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$hmm.coverage" NAME="hmm Coverage Results" MODIFIED="1502097252053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/crf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_histograms.coverage" NAME="_histograms Coverage Results" MODIFIED="1530499490766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_pandas" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$RemoveDuplicatesfromSortedArray.coverage" NAME="RemoveDuplicatesfromSortedArray Coverage Results" MODIFIED="1529635469065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_vec.coverage" NAME="_vec Coverage Results" MODIFIED="1516276181890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$GettingStarted.coverage" NAME="GettingStarted Coverage Results" MODIFIED="1535102901796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$basic.coverage" NAME="basic Coverage Results" MODIFIED="1541040804447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$test.coverage" NAME="test Coverage Results" MODIFIED="1511931378198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/toefl" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_dropout.coverage" NAME="_dropout Coverage Results" MODIFIED="1524569174183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_tensorflow/mnist" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$us_data.coverage" NAME="us_data Coverage Results" MODIFIED="1541040907392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$scores.coverage" NAME="scores Coverage Results" MODIFIED="1531061484278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/pass" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$us_per_capita.coverage" NAME="us_per_capita Coverage Results" MODIFIED="1541041726664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$tutorial.coverage" NAME="tutorial Coverage Results" MODIFIED="1532934247356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_crf" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$sequential_one.coverage" NAME="sequential_one Coverage Results" MODIFIED="1515588754327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rnn" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$binaryClassification.coverage" NAME="binaryClassification Coverage Results" MODIFIED="1535104974748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearning/_keras" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_sklearn_run.coverage" NAME="_sklearn_run Coverage Results" MODIFIED="1516626496079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$robust.coverage" NAME="robust Coverage Results" MODIFIED="1509593758942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mlearn/Regression" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_cross_val_score.coverage" NAME="_cross_val_score Coverage Results" MODIFIED="1530597068798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$_plot_dts.coverage" NAME="_plot_dts Coverage Results" MODIFIED="1539089376269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_sklearn/_dts" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$plot_learn_curve.coverage" NAME="plot_learn_curve Coverage Results" MODIFIED="1498564468528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/support-vector-machine/plot-learn-curve" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$demo__2_.coverage" NAME="demo (2) Coverage Results" MODIFIED="1514797200821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LSTM" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$w2v_tfidf_similarity.coverage" NAME="w2v_tfidf_similarity Coverage Results" MODIFIED="1535006140599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/poc" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$ner_rule.coverage" NAME="ner_rule Coverage Results" MODIFIED="1539831823389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_acai/crf/ner_utils" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$SwapNodesinPairs.coverage" NAME="SwapNodesinPairs Coverage Results" MODIFIED="1530767696731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/AnalyticsVidhya$jdData.coverage" NAME="jdData Coverage Results" MODIFIED="1511412907840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1545">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>status</find>
+      <find>heig</find>
+      <find>ent</find>
+      <find>en</find>
+      <find>eth</find>
+      <find>外号</find>
+      <find>sh</find>
+      <find>ni</find>
+      <find>昵称</find>
+      <find>发哥</find>
+      <find>hei</find>
+      <find>身份证</find>
+      <find>heigh</find>
+      <find>height</find>
+      <find>shape</find>
+      <find>['E_car_brand']</find>
+      <find>G49496078</find>
+      <find>12898989899699</find>
+      <find>age</find>
+      <find>E_sys.identity</find>
+      <find>zdrylxbj</find>
+      <find>_sys.address</find>
+      <find>_sys.time</find>
+      <find>E_sys.time</find>
+      <find>43279574385</find>
+      <find>13628731060</find>
+      <find>AKA</find>
+      <find>护照</find>
+      <find>酒店</find>
+      <find>dur</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&amp;nbsp;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/toefl</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_acai/crf/ner_utils/liansuo_hotel_sorted.dat" />
+        <option value="$PROJECT_DIR$/_acai/crf/ner_utils/ner_utils.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_exe_zero/__init__.py" />
+        <option value="$PROJECT_DIR$/_acai/crf/ner_utils/ner_rule.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/__init__.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/text_cnn.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/train.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_dl/_cnn/_cnn_sentence/data_helpers.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_dl/_tensorboard/_dnn/__init__.py" />
+        <option value="$PROJECT_DIR$/_acai/recommend/recommed_text_set.dat" />
+        <option value="$PROJECT_DIR$/_acai/recommend/tools.py" />
+        <option value="$PROJECT_DIR$/_acai/recommend/recommed_corpus_set.dat" />
+        <option value="$PROJECT_DIR$/_acai/recommend/data/poetry.txt" />
+        <option value="$PROJECT_DIR$/_acai/recommend/read_utils.py" />
+        <option value="$PROJECT_DIR$/_acai/recommend/model.py" />
+        <option value="$PROJECT_DIR$/_acai/recommend/sample.py" />
+        <option value="$PROJECT_DIR$/_acai/recommend/train.py" />
+        <option value="$PROJECT_DIR$/_acai/rnn/__init__.py" />
+        <option value="$PROJECT_DIR$/_acai/rnn/data/corpus.dat" />
+        <option value="$PROJECT_DIR$/_acai/rnn/train.py" />
+        <option value="$PROJECT_DIR$/_acai/rnn/model.py" />
+        <option value="$PROJECT_DIR$/_acai/rnn/sample.py" />
+        <option value="$PROJECT_DIR$/_acai/recommend/__init__.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_xgboost/__init__.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/_xgboost/_optimization.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/CPT/readme.md" />
+        <option value="$PROJECT_DIR$/exercise_demo/CPT/CPT.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/CPT/PredictionTree.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/CPT/example.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python/python_tutorial.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python/_tutorial.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python/tutorial/data_helper.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/model.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/examples.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils/basic.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils/us_data.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils/us_graph.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils/us_map.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_utils/us_per_capita.py" />
+        <option value="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_helper.py" />
+        <option value="$PROJECT_DIR$/_acai/实体消岐.txt" />
+        <option value="$PROJECT_DIR$/_acai/entity_rule/__init__.py" />
+        <option value="$PROJECT_DIR$/_acai/test.csv" />
+        <option value="$PROJECT_DIR$/_acai/__init__.py" />
+        <option value="$PROJECT_DIR$/_acai/entity_corpus.csv" />
+        <option value="$PROJECT_DIR$/_acai/entity_issue.py" />
+        <option value="$PROJECT_DIR$/spacy_nlp/Tripadvisor_hotelreviews_Shivambansal.txt" />
+        <option value="$PROJECT_DIR$/spacy_nlp/__init__.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/taobao/wordcloud.py" />
+        <option value="$PROJECT_DIR$/taobao/wordcloud_tools.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-222" />
+    <option name="y" value="-1034" />
+    <option name="width" value="1383" />
+    <option name="height" value="966" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+          <State>
+            <id>Pyramid</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyByteLiteralInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AnalyticsVidhya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnalyticsVidhya" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsVidhya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/zhangzhen/TestEnv/lib/python2.7/site-packages/tensorflow/python/platform/app.py&#10;plot&#9;null&#9;null" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="AnalyticsVidhya" sdk-home="$USER_HOME$/TestEnv3/bin/python3.6">
+        <option name="mySdkHome" value="$USER_HOME$/TestEnv3/bin/python3.6" />
+        <option name="myModuleName" value="AnalyticsVidhya" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_acai" />
+      <recent name="$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database" />
+      <recent name="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/Python/tutorial" />
+      <recent name="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon/R" />
+      <recent name="$PROJECT_DIR$/_acai/recommend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/taobao" />
+      <recent name="$PROJECT_DIR$/exercise_demo/timeseries" />
+      <recent name="$PROJECT_DIR$/_acai/recommend/data" />
+      <recent name="$PROJECT_DIR$/_acai/intent" />
+      <recent name="$PROJECT_DIR$/_acai/recommend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.wordcloud">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/TestEnv3/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spacy_nlp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spacy_nlp/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/TestEnv/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="wordcloud" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/TestEnv/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taobao/wordcloud_tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="AnalyticsVidhya" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="AnalyticsVidhya" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AnalyticsVidhya" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.AnalyticsVidhya" />
+      <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="2" class="java.lang.String" itemvalue="Python.wordcloud" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.wordcloud" />
+        <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2736ac3b-af57-4548-8782-39a76f47415b" name="Default" comment="" />
+      <created>1498446688679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498446688679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_data_char_process_test - 2018.08.19 at 14h 07m 33s.xml">
+      <configuration name="py.test for data_char_process.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_data_char_process_py - 2018.08.19 at 14h 07m 20s.xml">
+      <configuration name="py.test in data_char_process.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_data_char_process_py - 2018.08.19 at 14h 07m 41s.xml">
+      <configuration name="py.test in data_char_process.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_data_char_process_py - 2018.08.19 at 14h 11m 01s.xml">
+      <configuration name="py.test in data_char_process.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_tree_py - 2018.09.24 at 17h 12m 20s.xml">
+      <configuration name="py.test in test_tree.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_tree_py - 2018.09.24 at 17h 12m 38s.xml">
+      <configuration name="py.test in test_tree.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-222" y="-1034" width="1383" height="966" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55637705" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21674877" sideWeight="0.29032257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5046211" sideWeight="0.804698" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23567468" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31792977" sideWeight="0.6481481" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5177956" sideWeight="0.7096774" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31394482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31629393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3133087" sideWeight="0.49782136" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="false" weight="0.6455609" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="2096" y="328" width="696" height="527" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38262478" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06920152" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="430" height="857" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32809612" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.t" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/exercise_demo/CPT" />
+      <path value="$PROJECT_DIR$/exercise_demo/Allstate-Event-Prediction-Hackathon" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/leetcode/LongestSubstringWithoutRepeatingCharacters.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/leetcode/3SumClosest.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/leetcode/Roman2Integer.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/leetcode/SearchInsertPosition.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/leetcode/StringToInteger.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/leetcode/GenerateParentheses.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/_dl/acai_classifier/keras_quential.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/leetcode/sort/Quicksort.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_crf/data_process.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/_sklearn/_svm/_cross_validation.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/_sklearn/_dts/trees.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercise/_sklearn/_dts/_plot_dts.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/intent/_load_data.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/rnn/read_utils.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/rnn/read_utils.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/rnn/read_utils.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/rnn/model.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/rnn/read_utils.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/recommend/__init__.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/recommend/__init__.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/recommend/__init__.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_acai/entity_rule/__init__.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="86" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>stack</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/examples.py" />
+    <entry file="file://$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/globalterrorismdb_0718dist.csv" />
+    <entry file="file://$USER_HOME$/TestEnv/lib/python2.7/site-packages/openpyxl/reader/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="138" column="47" lean-forward="true" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TestEnv/lib/python2.7/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="712" column="0" lean-forward="false" selection-start-line="712" selection-start-column="0" selection-end-line="712" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/data_helper.py" />
+    <entry file="file://$PROJECT_DIR$/exercise_demo/Global-Terrorism-Database/svm-train.txt" />
+    <entry file="file://$PROJECT_DIR$/_acai/实体消岐.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/context.pkl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/crf/user_dict">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="150" column="8" lean-forward="false" selection-start-line="150" selection-start-column="8" selection-end-line="150" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/ts_corpus.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1852547617/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="118" column="4" lean-forward="false" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="1374" column="26" lean-forward="false" selection-start-line="1374" selection-start-column="26" selection-end-line="1374" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/_wraps.py" />
+    <entry file="file://$PROJECT_DIR$/tf/frequency.dict" />
+    <entry file="file://$PROJECT_DIR$/poc/similarity.py" />
+    <entry file="file://$PROJECT_DIR$/poc/myapp.log" />
+    <entry file="file://$PROJECT_DIR$/poc/w2v_similarity" />
+    <entry file="file://$PROJECT_DIR$/zhtools/langconv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacy_nlp/Tripadvisor_hotelreviews_Shivambansal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="331" column="49" lean-forward="false" selection-start-line="331" selection-start-column="49" selection-end-line="331" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning-assignment/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/condom/seg_comments.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/condom/user.dict">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/condom/comments.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-172">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/flycup/comments.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/flycup/fly_cup_seller_dis.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/condom/titles.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/_dl/linguistic/train.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/CPT/PredictionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/_sklearn/_svm/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/bra/comments.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TestEnv/lib/python2.7/site-packages/wordcloud/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#111#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/flycup/fly_cup.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/flycup/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/flycup/geo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/flycup/flycup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1046">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/wordcloud_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacy_nlp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/timeseries/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flycup.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/entity_rule/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/contact_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/corpus.pkl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/entity_corpus.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="216" column="205" lean-forward="false" selection-start-line="216" selection-start-column="197" selection-end-line="216" selection-end-column="205" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/entity_issue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_acai/gram.pkl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1545">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
