@@ -253,7 +253,7 @@ def run():
     parser.add_option('-e', type='string', dest='encoding',
             help='encoding')
     parser.add_option('-f', type='string', dest='file_in',
-            help='input file (- for stdin)')
+            help='input.txt file (- for stdin)')
     parser.add_option('-t', type='string', dest='file_out',
             help='output file')
     (options, args) = parser.parse_args()
